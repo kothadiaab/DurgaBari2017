@@ -1,0 +1,22 @@
+{
+  "name": "durgabari",
+  "version": "1.0.0",
+  "description": "Boston DurgaBari website, 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kothadiaab/DurgaBari2017.git"
+  },
+  "author": "Abhed Kothadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kothadiaab/DurgaBari2017/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "webpack": "^3.4.1"
+  }
+}
