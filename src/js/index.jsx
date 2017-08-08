@@ -3,7 +3,7 @@ import {render} from 'react-dom';
 
 class IndexView extends React.Component {
   render() {
-    return <h1>Welcome to Durgabari 2017</h1>
+    return <h1>Welcome to Boston Durgabari 2017</h1>
   }
 }
 
